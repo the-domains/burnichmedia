@@ -1,7 +1,7 @@
 name: burnichmedia
 favicon: null
 layout_spectrum: 0
-typography_spectrum: 0.8404503853525966
+typography_spectrum: 0.50089
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#000000'
     - '#ffffff'
     - '#aaaaaa'
-  brandStrength: 0.2591323829255998
+  brandStrength: 0.5
   lightness: 0.25056893448345363
   saturation: 0.7505945884622633
   rhythmicContrast: 0.02333550783805549
