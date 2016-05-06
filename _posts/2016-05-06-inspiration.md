@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-06T11:39:12.151Z'
-dateModified: '2016-05-06T11:38:55.421Z'
+datePublished: '2016-05-06T11:42:01.695Z'
+dateModified: '2016-05-06T11:39:19.965Z'
 title: Inspiration
 author: []
 sourcePath: _posts/2016-05-06-inspiration.md
